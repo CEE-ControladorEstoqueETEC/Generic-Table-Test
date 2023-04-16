@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "position": "Software Engineer",
+      "salary": 5000
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "email": "jane.doe@example.com",
+      "position": "Web Designer",
+      "salary": 4000
+    },
+    {
+      "id": 3,
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "position": "Database Administrator",
+      "salary": 6000
+    },
+    {
+      "id": 4,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "position": "Project Manager",
+      "salary": 7000
+    },
+    {
+      "id": 5,
+      "name": "David Brown",
+      "email": "david.brown@example.com",
+      "position": "Business Analyst",
+      "salary": 5500
+    }
+  ]
+  
